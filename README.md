@@ -1,6 +1,6 @@
 # 🌐 Sphere — Backend
 
-> API REST de uma plataforma desenvolvido por mim que mistura conceitos e funcionalidades de blog com rede social, com autenticação JWT, documentação Swagger e testes automatizados!
+> API REST de uma plataforma desenvolvida por mim que mistura conceitos e funcionalidades de blog com rede social, com autenticação JWT, documentação Swagger e testes automatizados!
 
 ---
 
